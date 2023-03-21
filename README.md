@@ -1,24 +1,19 @@
-<h1>Hello World 👋🏾</h1>
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"> Adegoke Fuad Ajibola</a></div>
-    
-<h1>Welcome To ALIPHATIC'S Profile👽</h1>
+<h1>Hello World 🏾</h1>
+
+<h1>Welcome To  Profile</h1>
 
 
 
 ###   **What's my current role in tech?** </h2>
-       { softWare Engineer | Public Speaker | Product Manager } 
+       { softWare Engineer | Open Source Contributor } 
 
-###   **Founder/C.E.O of ANTAPEX** </h2>
-#### Follow ANTAPEX via;
-<a href="https://github.com/ANTAPEX"><img src="images/github.png" width="60" /></a>
-<a href="https://www.linkedin.com/company/the-antapex/"><img src="images/linkedin.png" width="60" /></a>
 
 
 
 #### Connect with me 
-<a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://twitter.com/AdegokeFuad"><img src="images/twitter.png" width="60" /></a>
-<a href="https://www.instagram.com/adegokefuad1/"><img src="images/ig.png" width="70" /></a>
+<a href=""><img src="images/linkedin.png" width="60" /></a>
+<a href=""><img src="images/twitter.png" width="60" /></a>
+<a href=""><img src="images/ig.png" width="70" /></a>
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
@@ -37,10 +32,10 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
-<code><img src="images/sass.jpg" width="60" title="SASS" /></code>
+
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
-<code><img src="images/dart.png" width="65" title="Dart" /></code>
+
 
 #### Frameworks/Libraries I Use
 <code><img src="images/tailwind.png" width="70" title="Tailwind" /></code>
@@ -51,7 +46,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/json.png" width="70" title="JSON" /></code>
 <code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
 <code><img src="images/express.png" width="65" title="Express" /></code>
-<code><img src="images/flutter.png" width="65" title="Flutter" /></code>
+
 
 #### Tools I Use
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
