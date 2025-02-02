@@ -5,7 +5,7 @@
 
 
 ###   **What's my current role in tech?** </h2>
-       { softWare Engineer | Open Source Contributor } 
+       { Backend && Data Engineering } 
 
 
 
@@ -20,9 +20,8 @@
 #### About
 Here are some basic things to know about DavidMark👽👳🏾‍♂️;
 
-- 🔭 I’m currently working on acquiring DSA skills,
-- 🌱 I’m currently exploring Backend Web Development,
-- 👯 I’m looking for people to contribute to my projects.
+- 🌱 I’m currently exploring Data Development,
+- 👯 Currently working in the blockchain space,
 - 🤔 I’m looking for help with expanding my community,
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: Email: nwaekwudavid@gmail.com, Phone: +2349136882184,
